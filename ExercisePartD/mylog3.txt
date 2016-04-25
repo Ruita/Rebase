@@ -1,0 +1,8 @@
+*   Solved conflict
+|\  
+| * Added header
+| * Second time file updated
+* | Different event added
+* | New thought for the day
+|/  
+* fnOne added

@@ -1,0 +1,20 @@
+*   Merge branch 'addEvents'
+|\  
+| * Message is added
+* |   Merge branch 'addEvents'
+|\ \  
+| |/  
+| * Event time added
+* |   Commited recent changes
+|\ \  
+| |/  
+| * more friendly event header
+* |   Solved conflict
+|\ \  
+| |/  
+| * Added header
+| * Second time file updated
+* | Different event added
+* | New thought for the day
+|/  
+* fnOne added
